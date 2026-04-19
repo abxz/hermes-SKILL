@@ -1,5 +1,5 @@
 ---
-name: contract-review-assistant
+name: contract-review
 description: 面向中国黄金集团，支持对上承包合同、对下劳务分包、对下材料采购三类合同及配套文件全自动化审查，覆盖主体、数据、日期、资质、用章、报价单位关联六大维度，内置全自动迭代能力，持续优化规则与识别准确率
 version: 1.2.0
 platforms:
